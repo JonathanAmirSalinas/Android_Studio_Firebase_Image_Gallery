@@ -1,11 +1,13 @@
 ## Firebase Image Gallery
 
 ## Main Screen
-![image](https://github.com/JonathanAmirSalinas/Android_Studio_Firebase_Image_Gallery/assets/126116839/3382dde2-8665-44bc-b1b8-26d6e402bae6)
+![image](https://github.com/JonathanAmirSalinas/Android_Studio_Firebase_Image_Gallery/assets/126116839/768a63a5-6c5c-498b-881c-46647661ba52)
 
 ## Upload Screen
-![image](https://github.com/JonathanAmirSalinas/Android_Studio_Firebase_Image_Gallery/assets/126116839/2c56eeeb-7a1a-42b2-8b16-bd9e03079e85)
-![image](https://github.com/JonathanAmirSalinas/Android_Studio_Firebase_Image_Gallery/assets/126116839/6666e7e3-ad1e-41fc-91ed-64fe166e2154)
+![image](https://github.com/JonathanAmirSalinas/Android_Studio_Firebase_Image_Gallery/assets/126116839/9d212726-30ad-4b88-abad-b36a67933777)
+![image](https://github.com/JonathanAmirSalinas/Android_Studio_Firebase_Image_Gallery/assets/126116839/dc692e47-2ded-4d2f-a754-efd67a6392c1)
 
-##
+## Main Screen Change
+![image](https://github.com/JonathanAmirSalinas/Android_Studio_Firebase_Image_Gallery/assets/126116839/e3f52fda-9fd7-475a-bcf4-91b561159618)
+
 
